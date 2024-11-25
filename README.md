@@ -1,4 +1,9 @@
-# FULL_ADDER_SUBTRACTOR
+
+```
+Name : Shakthivel v
+Reg number : 24901278
+```
+**EXP.4 FULL_ADDER_SUBTRACTOR**
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
