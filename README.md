@@ -1,10 +1,10 @@
-**EXP.4 FULL_ADDER_SUBTRACTOR**
+# EXP.4 FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
-## NAME : LOGU R
-## REG NO : 212224230141
+**NAME : LOGU R**
+**REG NO : 212224230141**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
