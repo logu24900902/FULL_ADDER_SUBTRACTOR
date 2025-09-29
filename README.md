@@ -1,13 +1,10 @@
-
-```
-Name : Shakthivel v
-Reg number : 24901278
-```
 **EXP.4 FULL_ADDER_SUBTRACTOR**
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
+## NAME : LOGU R
+## REG NO : 212224230141
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
@@ -56,7 +53,7 @@ Write the detailed procedure here
 ```
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 */
 ```
 module Full-adder(
